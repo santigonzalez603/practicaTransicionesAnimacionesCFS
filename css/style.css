@@ -7,3 +7,15 @@ body{
 main{
     flex-grow: 1;
 }
+
+/* ejemplo de transiciones */
+.item {
+    background-color: tomato;
+    width: 200px;
+    height: 200px;
+  }
+
+  
+  .item:hover {
+    background: slateblue;
+  }
