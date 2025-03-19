@@ -24,3 +24,11 @@ main{
   .item:hover {
     background: slateblue;
   }
+
+  .texto-grande{
+    transition: font-size 2s ease-out;
+  }
+
+  .texto-grande:hover{
+    font-size: 24px;
+  }
